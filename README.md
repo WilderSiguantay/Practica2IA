@@ -1,4 +1,4 @@
 # Practica2IA
 
 ## DOMINIO
-`` practica2IA.tk:5000`` 
+`` www.practica2IA.tk:5000`` 
