@@ -12,7 +12,6 @@ def hello():
 
 
 @app.route('/metodoGet', methods=['GET'])
-
 def metodoGet():
     return 1
 
